@@ -2,8 +2,8 @@
 
 ### I am a Mobile & Web Application developer.
 
-- 🔭 I’m currently working on a SwiftUI application 😊
-- 🌱 I’m currently learning Swift
+- 🔭 I’m currently working on a SwiftUI application called ZBasis
+- 🌱 I’m currently learning Firebase
 
 
 <!--
